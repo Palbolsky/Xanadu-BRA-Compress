@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Xanadu_BRA_Compress</RootNamespace>
+    <Authors>Palbolsky</Authors>
+  </PropertyGroup>
+
+</Project>

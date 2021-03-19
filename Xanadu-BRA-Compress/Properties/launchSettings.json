@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Xanadu-BRA-Compress": {
+      "commandName": "Project",
+      "commandLineArgs": "\"E:\\xanadu_working\\TOOLS-1.0\\System.bra\" \"E:\\xanadu_working\\TOOLS-1.0\\EXTRACTED_FILES\\System\""
+    }
+  }
+}
