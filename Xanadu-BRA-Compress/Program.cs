@@ -60,6 +60,8 @@ namespace Xanadu_BRA_Compress
             Console.WriteLine("Xanadu .BRA Archive Importer by Palbolsky (based on Xanadu .BRA Archive Exporter by Sewer56lol)");
             Console.WriteLine("For personal use.");
             Console.WriteLine("Usage: Xanadu_BRA_Compress <file.bra> <folder>");
+            Console.WriteLine("<file.bra>: Path to the .BRA Archive");
+            Console.WriteLine("<folder>: Path to the folder contains the uncompressed files of .BRA Archive.");
             Console.WriteLine("Compress all files, even unmodified ones: Xanadu_BRA_Compress <file.bra> <folder> -all");
             if (args?.Length < 2)
                 return;
